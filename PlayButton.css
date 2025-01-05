@@ -1,0 +1,17 @@
+.play-button {
+    width: 60px;
+    height: 60px;
+    background-image: url('../slinky-icon.svg');
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.play-button:hover {
+    transform: scale(1.1);
+}
+
+.play-button:focus {
+    outline: none;
+}

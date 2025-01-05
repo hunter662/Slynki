@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <g>
+    <path d="M50 10C30.67 10 10 30.67 10 50s20.67 40 40 40 40-20.67 40-40S69.33 10 50 10zm0 75c-19.33 0-35-15.67-35-35S30.67 15 50 15s35 15.67 35 35-15.67 35-35 35z" fill="#FF5733"/>
+    <path d="M50 20C35.67 20 25 30.67 25 45s10.67 25 25 25 25-10.67 25-25S64.33 20 50 20zm0 45c-11.04 0-20-8.96-20-20s8.96-20 20-20 20 8.96 20 20-8.96 20-20 20z" fill="#FFC300"/>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -5" begin="0s" dur="0.5s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" from="0 -5" to="0 0" begin="0.5s" dur="0.5s" repeatCount="indefinite" />
+  </g>
+</svg>
